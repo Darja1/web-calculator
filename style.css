@@ -52,8 +52,8 @@ body {
 }
 
 .button:hover{
-    color: #3498db;
-    background-color: coral;   
+    color: #00FFFF;
+    background-color: aqua;   
 }
 
 .container .buttons .zero {
